@@ -1,10 +1,4 @@
 # Hello world!
 
 
-<details>
-<summary>#</summary>
-
-<a href="https://mastodon.social/@krrw" rel="me">Mastodon.social</a>
-<br/>
-
-</details>
+<img src="https://is.gd/phflag" alt/>
